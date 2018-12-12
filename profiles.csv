@@ -1,0 +1,4 @@
+BMI,BMI result,BSugar,Blood sugar result,HrRate,Tempt,age,cholesterol,cholesterol result,fat,fat result,gender,height,name,weight
+19.03,Healthy,66.0,low blood sugar,60,37.3,22,200.0,Borderline,19.0,Athletes,F,1.7,Val,55.0
+22.04,Healthy according to BMI,79.0,normal blood sugar,80,37.6,35,200.0,Borderline,22.0,Fitness,F,1.65,Lil,60.0
+1.66,Underweight according to BMI,66.0,low blood sugar,60,37.5,25,200.0,Borderline,10.0,Athletes,M,1.9,Lou,6.0
