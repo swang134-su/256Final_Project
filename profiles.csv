@@ -1,2 +1,5 @@
 BMI,BMI result,BSugar,Blood sugar result,HrRate,Tempt,age,cholesterol,cholesterol result,fat,fat result,gender,height,name,weight
-
+19.03,Healthy according to BMI,60.0,low blood sugar,66,37.5,22,200.0,Borderline,19.0,Athletes,F,1.7,Val,55.0
+22.95,Healthy according to BMI,100.0,pre-diabetes,80,940.25,21,100.0,Good,100.0,,F,1.54,Diana,54.42
+27.46,Overweight according to BMI,70.0,normal blood sugar,65,939.26,48,104.0,Good,25.0,Obese,M,1.7,Mike ,79.37
+26.65,Overweight according to BMI,80.0,normal blood sugar,73,930.37,57,250.0,"Your cholesterol level is high.You should adopt a diet low in saturated fats and try to start eating more fruits, vegetables, whole grains, nuts, and seeds.More physical activity(minimum of 150 minutes per week ) can also help maintain healthy body weight.You should also limit your alcohol consumption to no more than 2 drinks a day to 1o drinks a week.",24.0,Average,F,1.65,Sheila,72.56
